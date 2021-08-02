@@ -1,7 +1,7 @@
 /**
  * @file app.c
  * @author Keith Graham
- * @edited: Kay Sho
+ * @modified Kay Sho
  * @9/12/2020
  *
  * @brief Contains all app driver functions
